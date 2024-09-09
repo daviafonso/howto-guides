@@ -1,6 +1,6 @@
 # How-to Guides
 
-Bem-vindo ao repositório **How-to Guides**! Este repositório é um compêndio de guias e tutoriais úteis para desenvolvedores e entusiastas de tecnologia. Aqui você encontrará instruções detalhadas e práticas sobre uma variedade de tópicos, incluindo:
+Bem-vindo ao repositório **How-to Guides**! Este repositório é um compilado de guias e tutoriais úteis para desenvolvedores e entusiastas de tecnologia. Aqui você encontrará instruções detalhadas e práticas sobre uma variedade de tópicos, incluindo:
 
 - **Configuração e uso do Git**: Dicas para criar e gerenciar repositórios Git, incluindo a configuração de autenticação SSH com o GitHub.
 - **Trabalhando com Python**: Como criar e gerenciar ambientes virtuais com `virtualenv`, além de configurações e boas práticas para desenvolvimento em Python.
