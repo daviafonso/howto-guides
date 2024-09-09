@@ -93,10 +93,3 @@ Você recebe um erro de autenticação ao tentar se conectar ao GitHub via SSH.
    ```sh
    ssh -T git@github.com
    ```
-
-## Dicas Adicionais
-
-- **Consultar a Documentação**: O Git e o GitHub têm extensas documentações e FAQs que podem ajudar a resolver problemas específicos.
-- **Usar a Comunidade**: Fóruns e comunidades online, como o Stack Overflow, podem fornecer soluções para problemas mais complexos.
-
-Se você tiver problemas específicos ou precisar de mais ajuda, sinta-se à vontade para pedir assistência!
